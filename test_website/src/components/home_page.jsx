@@ -9,8 +9,8 @@ export default function HomePage() {
     return (
       <div id='home_page-top'>
         
-        <p>This is the home page and stuff</p> 
-        
+        <p>This is the home page, might or might not pu other things here</p> 
+        <img src='https://i.imgflip.com/3moil1.jpg' alt='genius man'/>
       </div>
     )
   // }

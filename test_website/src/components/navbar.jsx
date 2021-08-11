@@ -48,7 +48,7 @@ class Navbar extends React.Component {
   render() {
     return (
       <div id='navbar-top'>
-        <div id='logo'>some logo</div>
+        <div id='logo'>logo</div>
 
         <NavItem label='banana' to='/banana' />
         <NavItem icon='https://image.flaticon.com/icons/png/512/4245/4245351.png' to='/about_page' />
